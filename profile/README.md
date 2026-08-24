@@ -181,7 +181,7 @@ Every page, interaction, and decision should serve a purpose.
 
 **Website** → [tarhfam.ir](https://tarhfam.ir)  
 **Founder** → [Saleh Sarlak](https://github.com/salehsarlak)  
-**Email** → tarhfamsup@gmail.com  
+**Email** → tarhfamm@gmail.com  
 **Telegram** → [@Tarhfam](https://t.me/Tarhfam)
 
 <br/>
